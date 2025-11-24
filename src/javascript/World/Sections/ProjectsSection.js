@@ -107,7 +107,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsChartogneFloorTexture,
                 link:
                 {
-                    href: 'https://chartogne-taillet.com',
+                    href: 'https://www.youagreed.co.uk/aims',
                     x: - 4.8,
                     y: - 3.3,
                     halfExtents:
