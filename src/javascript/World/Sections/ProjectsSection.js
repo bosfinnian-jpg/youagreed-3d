@@ -135,7 +135,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsBonhomme10ansFloorTexture,
                 link:
                 {
-                    href: 'https://anniversary.bonhommeparis.com/',
+                    href: 'https://youagreed.co.uk/research-foundation',
                     x: - 4.8,
                     y: - 2,
                     halfExtents:
@@ -162,7 +162,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsLuniFloorTexture,
                 link:
                 {
-                    href: 'https://luni.app',
+                    href: 'https://analyser.youagreed.co.uk/',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
@@ -188,7 +188,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsMadboxFloorTexture,
                 link:
                 {
-                    href: 'https://madbox.io',
+                    href: 'https://youagreed.co.uk/exhibition-showcase',
                     x: - 4.8,
                     y: - 4,
                     halfExtents:
