@@ -107,7 +107,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsChartogneFloorTexture,
                 link:
                 {
-                    href: 'https://www.youagreed.co.uk/aims',
+                    href: 'https://www.youagreed.co.uk/section-2/aims',
                     x: - 4.8,
                     y: - 3.3,
                     halfExtents:
@@ -135,7 +135,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsBonhomme10ansFloorTexture,
                 link:
                 {
-                    href: 'https://youagreed.co.uk/research-foundation',
+                    href: 'https://youagreed.co.uk/section-3/research-foundation',
                     x: - 4.8,
                     y: - 2,
                     halfExtents:
@@ -188,7 +188,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsMadboxFloorTexture,
                 link:
                 {
-                    href: 'https://youagreed.co.uk/exhibition-installation',
+                    href: 'https://youagreed.co.uk/section-4/exhibition-installation',
                     x: - 4.8,
                     y: - 4,
                     halfExtents:
