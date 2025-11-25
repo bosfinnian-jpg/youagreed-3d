@@ -82,7 +82,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsThreejsJourneyFloorTexture,
                 link:
                 {
-                    href: 'https://youagreed.co.uk',
+                    href: 'https://youagreed.co.uk/section-1/index.html',
                     x: - 4.8,
                     y: - 3,
                     halfExtents:
