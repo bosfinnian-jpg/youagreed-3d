@@ -188,7 +188,7 @@ export default class ProjectsSection
                 floorTexture: this.resources.items.projectsMadboxFloorTexture,
                 link:
                 {
-                    href: 'https://youagreed.co.uk/exhibition-showcase',
+                    href: 'https://youagreed.co.uk/exhibition-installation',
                     x: - 4.8,
                     y: - 4,
                     halfExtents:
