@@ -127,10 +127,10 @@ export default class ProjectsSection
                 name: 'Bonhomme | 10 ans',
                 imageSources:
                 [
-                    './models/projects/bonhomme10ans/slideA.webp',
-                    './models/projects/bonhomme10ans/slideB.webp',
-                    './models/projects/bonhomme10ans/slideC.webp',
-                    './models/projects/bonhomme10ans/slideD.webp'
+                    './models/projects/bonhomme10ans/slideA.jpg',
+                    './models/projects/bonhomme10ans/slideB.jpg',
+                    './models/projects/bonhomme10ans/slideC.jpg',
+                    './models/projects/bonhomme10ans/slideD.jpg'
                 ],
                 floorTexture: this.resources.items.projectsBonhomme10ansFloorTexture,
                 link:
